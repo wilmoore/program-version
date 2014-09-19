@@ -1,6 +1,6 @@
 {
   "name": "program-version",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Output the version and name of package.",
   "main": "index.js",
   "scripts": {
