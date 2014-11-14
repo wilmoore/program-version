@@ -1,6 +1,6 @@
 # program-version
 
-[![Build Status](http://img.shields.io/travis/wilmoore/program-version.svg)](https://travis-ci.org/wilmoore/program-version) [![NPM version](http://img.shields.io/npm/v/program-version.svg)](https://www.npmjs.org/package/program-version) [![NPM downloads](http://img.shields.io/npm/dm/program-version.svg)](https://www.npmjs.org/package/program-version) [![LICENSE](http://img.shields.io/npm/l/program-version.svg)](LICENSE)
+[![Build Status](http://img.shields.io/travis/wilmoore/program-version.svg)](https://travis-ci.org/wilmoore/program-version) [![NPM version](http://img.shields.io/npm/v/program-version.svg)](https://www.npmjs.org/package/program-version) [![NPM downloads](http://img.shields.io/npm/dm/program-version.svg)](https://www.npmjs.org/package/program-version) [![LICENSE](http://img.shields.io/npm/l/program-version.svg)](license)
 
 > Returns the program/package name and version as a string with optional format customization.
 
@@ -38,5 +38,5 @@
 
 ## License
 
-  [MIT](LICENSE)
+  [MIT](license)
 
