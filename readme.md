@@ -4,15 +4,21 @@
 
 > Returns the program/package name and version as a string with optional format customization.
 
-    $ npm install program-version
+    $ npm install program-version --save
 
 ## Usage
 
+###### import and configure.
+
+    // specify directory of `package.json`
+    var version = require('program-version')(__dirname)
+
+    // directory of `package.json` is inferred
+    var version = require('program-version')()
+
 ###### program/package name, leading `v` and version.
 
-    var version = require('program-version');
-
-    version();
+    version()
     //=> program vN.N.N
 
 ## Format Options
@@ -39,4 +45,3 @@
 ## License
 
   [MIT](license)
-
